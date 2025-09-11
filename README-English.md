@@ -29,4 +29,4 @@ LICENSE-COMMERCIAL.txt: A commercial license that applies if you wish to use thi
 Credits
 Apache NetBeans Project: https://netbeans.apache.org/
 
-Packaging for Termux: Luana dos Santos Leite (@impfenix)
+Packaging for Termux: Luana dos Santos Leite (@impfenix) ingles 
