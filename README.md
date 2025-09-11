@@ -26,4 +26,4 @@
 # Créditos
 * **[Projeto Apache NetBeans](https://netbeans.apache.org/)**
 
-* **Empacotamento para Termux:** Luana dos Santos Leite (@impfenix)
+* **Empacotamento para Termux:** Luana dos Santos Leite [(@impfenix)](https://github.com/impfenix)
