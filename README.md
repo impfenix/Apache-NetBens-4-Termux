@@ -6,7 +6,7 @@ Este projeto fornece um instalador não-oficial para rodar uma versão do Apache
 O objetivo é oferecer um IDE de desktop funcional para desenvolvimento em dispositivos móveis, utilizando o Termux e o Termux:X11.
 
 Funcionalidades
-Instalador Simples: <img src="./icon.png" width="50" alt="Ícone do Instalador"> netbeans-termux-installer.apk que, quando aberto com o Termux, instala o Apache NetBeans automaticamente.
+Instalador Simples: <img src="./icon.png" width="35" alt="Ícone do Instalador"> netbeans-termux-installer.apk que, quando aberto com o Termux, instala o Apache NetBeans automaticamente.
 
 Nativo para ARM: O NetBeans é compilado para a arquitetura aarch64, garantindo o melhor desempenho possível no seu aparelho.
 
