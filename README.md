@@ -20,7 +20,7 @@ As instruções completas, tanto para usuárias avançadas quanto para iniciante
 ## Licença
 Este projeto é disponibilizado sob uma licença dupla. Por favor, leia os arquivos de licença para entender seus direitos e obrigações.
 
-* **[LICENSE-GPL]()**: A GNU General Public License v3.0, que garante sua liberdade para usar, modificar e compartilhar o software.
+* **[LICENSE-GPL](./LICENSE)**: A GNU General Public License v3.0, que garante sua liberdade para usar, modificar e compartilhar o software.
 
 * **[LICENSE-COMMERCIAL]()**: Uma licença comercial que se aplica caso você deseje utilizar este trabalho para fins lucrativos.
 
