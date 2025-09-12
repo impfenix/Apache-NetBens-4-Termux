@@ -1,13 +1,14 @@
 [Leia em Português](README.md)  ***|*** [阅读中文版]()
 
-# **Apache NetBeans 4 Termux** <img src="./ico/android-icon.png" width="45" alt="Ícone do Android">
+# **Apache NetBeans 4 Termux** <img width="45" height="45" alt="android-icon" src="https://github.com/user-attachments/assets/de034728-2cee-4b3e-8e46-00b490dbc281" />
 
 * This project provides a non-official installer to run a version of Apache NetBeans compiled from source, adapted for the Termux environment on Android.
 
 * The goal is to offer a functional desktop IDE for development on mobile devices, using [Termux]() and [Termux:X11]().
 
-## Features 
-* **Simple Installer:** <img src="./ico/icon.png" width="30" alt="Ícone do Instalador"> [netbeans-termux-installer.apk]() that, when opened with Termux, automatically installs Apache NetBeans.
+## Features
+
+* **Simple Installer:**  <img width="30" height="30" alt="icon" src="https://github.com/user-attachments/assets/2827a244-fd96-4c73-9ef7-1d30d5e2963c" /> [netbeans-termux-installer.apk]() that, when opened with Termux, automatically installs Apache NetBeans.
 
 * **Native for ARM:** NetBeans is compiled for the aarch64 architecture, ensuring the best possible performance on your device.
 
