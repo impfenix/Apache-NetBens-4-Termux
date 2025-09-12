@@ -1,4 +1,4 @@
-[Read this page in English](REDME-En.md)  ***|*** [阅读中文版]()
+[Read this page in English](/REDME/REDME-En.md)  ***|*** [阅读中文版]()
 
 # **Apache NetBeans 4 Termux** <img src="./ico/android-icon.png" width="45" alt="Ícone do Android">
 * Este projeto fornece um instalador não-oficial para rodar uma versão do Apache NetBeans compilada a partir do código-fonte, adaptada para o ambiente Termux no Android.
