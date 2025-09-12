@@ -1,4 +1,4 @@
-[Leia em Português](README.md)  ***|*** [阅读中文版]()
+[Leia em Português](Apache-NetBeans-4-Termux/README.md)  ***|*** [阅读中文版]()
 
 # **Apache NetBeans 4 Termux** <img width="45" height="45" alt="android-icon" src="https://github.com/user-attachments/assets/de034728-2cee-4b3e-8e46-00b490dbc281" />
 
