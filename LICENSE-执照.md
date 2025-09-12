@@ -1,1 +1,0 @@
-[a](./LINCENSE/LICENSE-GPL.txt)
