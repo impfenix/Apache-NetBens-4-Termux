@@ -1,4 +1,4 @@
-[Leia em Português](https://github.com/impfenix/Apache-NetBens-4-Termux/tree/main)  ***|*** [阅读中文版]()
+[Leia em Português](https://github.com/impfenix/Apache-NetBens-4-Termux/tree/main)  ***|*** [阅读中文版](REDME/REDME-中国人.md)
 
 # **Apache NetBeans 4 Termux** <img width="45" height="45" alt="android-icon" src="https://github.com/user-attachments/assets/de034728-2cee-4b3e-8e46-00b490dbc281" />
 
