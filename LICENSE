@@ -1,0 +1,89 @@
+LICENÇA PÚBLICA GERAL GNU
+Versão 3, 29 de junho de 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Todos têm permissão para copiar e distribuir cópias literais
+deste documento de licença, mas alterá-lo não é permitido.
+
+Preâmbulo
+
+A Licença Pública Geral GNU é uma licença livre, com copyleft, para
+software e outros tipos de obras.
+
+As licenças para a maioria dos softwares e outras obras práticas são projetadas
+para restringir sua liberdade de compartilhar e modificar as obras. Em contraste,
+a Licença Pública Geral GNU visa garantir sua liberdade de
+compartilhar e modificar todas as versões de um programa — para garantir que ele permaneça um software
+livre para todos os seus usuários. Nós, a Free Software Foundation, usamos a
+Licença Pública Geral GNU para a maioria dos nossos softwares; ela se aplica também a
+qualquer outra obra lançada dessa forma por seus autores. Você também pode aplicá-la aos
+seus programas.
+
+Quando falamos de software livre, estamos nos referindo à liberdade, não ao preço. Nossas Licenças Públicas Gerais foram projetadas para garantir que você tenha a liberdade de distribuir cópias de software livre (e cobrar por elas, se desejar), que receba o código-fonte ou possa obtê-lo se quiser, que possa alterar o software ou usar partes dele em novos programas livres e que saiba que pode fazer tudo isso.
+
+Para proteger seus direitos, precisamos impedir que outros neguem a você esses direitos ou peçam que você os abra mão. Portanto, você tem certas responsabilidades se distribuir cópias do software ou se modificá-lo: responsabilidades de respeitar a liberdade de terceiros.
+
+Por exemplo, se você distribuir cópias de tal programa, seja gratuitamente ou mediante pagamento, você deve repassar aos destinatários as mesmas liberdades que recebeu. Você deve garantir que eles também recebam ou possam obter o código-fonte. E você deve mostrar a eles estes termos para que conheçam seus direitos.
+
+Os desenvolvedores que utilizam a GNU GPL protegem seus direitos em duas etapas:
+(1) reivindicam os direitos autorais do software e (2) oferecem a você esta Licença,
+dando-lhe permissão legal para copiá-lo, distribuí-lo e/ou modificá-lo.
+
+Para a proteção dos desenvolvedores e autores, a GPL explica claramente
+que não há garantia para este software livre. Para o bem dos usuários e
+dos autores, a GPL exige que as versões modificadas sejam marcadas como
+alteradas, para que seus problemas não sejam atribuídos erroneamente aos
+autores de versões anteriores.
+
+Alguns dispositivos são projetados para negar aos usuários o acesso para instalar ou executar
+versões modificadas do software dentro deles, embora o fabricante
+possa fazê-lo. Isso é fundamentalmente incompatível com o objetivo de
+proteger a liberdade dos usuários de alterar o software. O padrão sistemático
+de tal abuso ocorre na área de produtos para uso
+individual, que é precisamente onde é mais inaceitável. Portanto,
+projetamos esta versão da GPL para proibir a prática para esses
+produtos. Se tais problemas surgirem substancialmente em outros domínios,
+estamos prontos para estender esta disposição a esses domínios em versões futuras
+da GPL, conforme necessário para proteger a liberdade dos usuários.
+
+Finalmente, todo programa é constantemente ameaçado por patentes de software.
+Os Estados não devem permitir que patentes restrinjam o desenvolvimento e o uso de
+software em computadores de uso geral, mas, naqueles que o fazem, desejamos
+evitar o perigo especial de que patentes aplicadas a um programa livre possam
+torná-lo efetivamente proprietário. Para evitar isso, a GPL garante que
+patentes não possam ser usadas para tornar o programa não livre.
+
+Os termos e condições precisos para cópia, distribuição e
+modificação seguem abaixo.
+
+TERMOS E CONDIÇÕES
+
+0. Definições.
+
+"Esta Licença" refere-se à versão 3 da Licença Pública Geral GNU.
+
+"Direitos autorais" também significa leis semelhantes a direitos autorais que se aplicam a outros tipos de
+obras, como máscaras semicondutoras.
+
+"O Programa" refere-se a qualquer obra passível de direitos autorais licenciada sob esta
+Licença. Cada licenciado é tratado como "você". "Licenciados" e
+"destinatários" podem ser indivíduos ou organizações.
+
+"Modificar" uma obra significa copiar ou adaptar a obra, no todo ou em parte,
+de forma que exija permissão de direitos autorais, além de fazer uma
+cópia exata. A obra resultante é chamada de "versão modificada" da
+obra anterior ou uma obra "baseada" na obra anterior.
+
+Uma "obra coberta" significa o Programa não modificado ou uma obra baseada
+no Programa.
+
+"Propagar" uma obra significa fazer qualquer coisa com ela que, sem
+permissão, o torne direta ou indiretamente responsável por
+violação sob a lei de direitos autorais aplicável, exceto executá-la em um
+computador ou modificar uma cópia privada. Propagação inclui cópia,
+distribuição (com ou sem modificação), disponibilização ao
+público e, em alguns países, outras atividades também.
+
+"Transmitir" uma obra significa qualquer tipo de propagação que permita a outras
+partes fazer ou receber cópias. A mera interação com um usuário através de
+uma rede de computadores, sem transferência de uma cópia,
