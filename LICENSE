@@ -19,11 +19,20 @@ Licença Pública Geral GNU para a maioria dos nossos softwares; ela se aplica t
 qualquer outra obra lançada dessa forma por seus autores. Você também pode aplicá-la aos
 seus programas.
 
-Quando falamos de software livre, estamos nos referindo à liberdade, não ao preço. Nossas Licenças Públicas Gerais foram projetadas para garantir que você tenha a liberdade de distribuir cópias de software livre (e cobrar por elas, se desejar), que receba o código-fonte ou possa obtê-lo se quiser, que possa alterar o software ou usar partes dele em novos programas livres e que saiba que pode fazer tudo isso.
+Quando falamos de software livre, estamos nos referindo à liberdade, não ao preço.
+Nossas Licenças Públicas Gerais foram projetadas para garantir que você tenha a liberdade 
+de distribuir cópias de software livre (e cobrar por elas, se desejar), que receba o código-fonte
+ou possa obtê-lo se quiser, que possa alterar o software ou usar partes dele em novos programas
+livres e que saiba que pode fazer tudo isso.
 
-Para proteger seus direitos, precisamos impedir que outros neguem a você esses direitos ou peçam que você os abra mão. Portanto, você tem certas responsabilidades se distribuir cópias do software ou se modificá-lo: responsabilidades de respeitar a liberdade de terceiros.
+Para proteger seus direitos, precisamos impedir que outros neguem a você esses 
+direitos ou peçam que você os abra mão. Portanto, você tem certas responsabilidades
+se distribuir cópias do software ou se modificá-lo: responsabilidades de respeitar a liberdade de terceiros.
 
-Por exemplo, se você distribuir cópias de tal programa, seja gratuitamente ou mediante pagamento, você deve repassar aos destinatários as mesmas liberdades que recebeu. Você deve garantir que eles também recebam ou possam obter o código-fonte. E você deve mostrar a eles estes termos para que conheçam seus direitos.
+Por exemplo, se você distribuir cópias de tal programa, seja gratuitamente
+ou mediante pagamento, você deve repassar aos destinatários as mesmas liberdades
+que recebeu. Você deve garantir que eles também recebam ou possam obter
+o código-fonte. E você deve mostrar a eles estes termos para que conheçam seus direitos.
 
 Os desenvolvedores que utilizam a GNU GPL protegem seus direitos em duas etapas:
 (1) reivindicam os direitos autorais do software e (2) oferecem a você esta Licença,
@@ -62,7 +71,8 @@ TERMOS E CONDIÇÕES
 
 "Esta Licença" refere-se à versão 3 da Licença Pública Geral GNU.
 
-"Direitos autorais" também significa leis semelhantes a direitos autorais que se aplicam a outros tipos de
+"Direitos autorais" também significa leis semelhantes a direitos 
+autorais que se aplicam a outros tipos de
 obras, como máscaras semicondutoras.
 
 "O Programa" refere-se a qualquer obra passível de direitos autorais licenciada sob esta
