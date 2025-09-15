@@ -6,6 +6,6 @@
 
 * **2-Uso Comercial:** "Fins comerciais" significa qualquer atividade que gere receita, direta ou indiretamente, incluindo, mas não se limitando a: vender o Software, incorporar o Software em um produto vendido, usar o Software para fornecer serviços pagos, ou qualquer outra atividade com fins lucrativos.
 
-* **3-Restrições:** Você não pode usar o Software para fins comerciais sem primeiro adquirir esta licença. A licença GPLv3 continua a se aplicar a todo uso não comercial.
+* **3-Restrições:** Você não pode usar o Software para fins comerciais sem primeiro adquirir esta licença. A licença [GPLv3](LICENSE) continua a se aplicar a todo uso não comercial.
 
 **Contato:** Para adquirir esta licença, entre em contato com a Autora em luana.dsl90@gmail.com.
